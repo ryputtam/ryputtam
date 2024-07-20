@@ -6,6 +6,6 @@ theme: jekyll-theme-minimal
 
 nav:
   - name: "About"
-    link: "/about"
+    link: "/about/"
   - name: "Education"
     link: "/education"
