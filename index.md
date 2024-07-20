@@ -12,4 +12,4 @@ Welcome to my personal website. Here you can learn more about my background, edu
 Find out more [about me](/about/).
 
 ## Education
-(/education/)
+[Education](/education/)
