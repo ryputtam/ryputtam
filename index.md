@@ -10,3 +10,6 @@ Welcome to my personal website. Here you can learn more about my background, edu
 ## About
 
 Find out more [about me](/about/).
+
+## Education
+(/education/)
