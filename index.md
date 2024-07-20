@@ -8,4 +8,4 @@ Work in Progress. Stay tuned!
 
 Welcome to my personal website. Here you can learn more about my background, education, work experience, and projects.
 
-[About](/about/)            [Education](/education/)
+[About](/about/) &nbsp; [Education](/education/)
