@@ -3,3 +3,9 @@ title: Rushya Puttam
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+
+nav:
+  - name: "About"
+    link: "/about"
+  - name: "Education"
+    link: "/education"
