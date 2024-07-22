@@ -9,11 +9,15 @@
 
 - 📫 How to reach me **ryputtam@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ryputtam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryputtam" height="30" width="40" /></a>
-<a href="https://kaggle.com/re_hustler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="re_hustler" height="30" width="40" /></a>
-<a href="https://medium.com/ryputtam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ryputtam" height="30" width="40" /></a>
+<a href="https://kaggle.com/rputtam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rputtam" height="30" width="40" /></a>
+<a href="https://medium.com/@ryputtam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ryputtam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rputtam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rputtam" height="30" width="40" /></a>
 </p>
 
